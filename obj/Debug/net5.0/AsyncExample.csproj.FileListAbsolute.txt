@@ -1,0 +1,16 @@
+C:\Users\admin1\source\repos\AsyncExample\bin\Debug\net5.0\AsyncExample.exe
+C:\Users\admin1\source\repos\AsyncExample\bin\Debug\net5.0\AsyncExample.deps.json
+C:\Users\admin1\source\repos\AsyncExample\bin\Debug\net5.0\AsyncExample.runtimeconfig.json
+C:\Users\admin1\source\repos\AsyncExample\bin\Debug\net5.0\AsyncExample.runtimeconfig.dev.json
+C:\Users\admin1\source\repos\AsyncExample\bin\Debug\net5.0\AsyncExample.dll
+C:\Users\admin1\source\repos\AsyncExample\bin\Debug\net5.0\ref\AsyncExample.dll
+C:\Users\admin1\source\repos\AsyncExample\bin\Debug\net5.0\AsyncExample.pdb
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.csprojAssemblyReference.cache
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.AssemblyInfoInputs.cache
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.AssemblyInfo.cs
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.dll
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\ref\AsyncExample.dll
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.pdb
+C:\Users\admin1\source\repos\AsyncExample\obj\Debug\net5.0\AsyncExample.genruntimeconfig.cache
